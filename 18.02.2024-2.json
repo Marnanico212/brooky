@@ -1,0 +1,25 @@
+{
+    "name": "Katrina Johnson",
+    "age": 90,
+    "address": {
+        "street": "Jessica Stream",
+        "city": "North Shellybury",
+        "state": "Delaware",
+        "zip": "87276"
+    },
+    "contact": {
+        "phone": "001-737-575-7465x3760",
+        "servicePhone": "800913969"
+    },
+    "birthday": "1935-05-05",
+    "ip": "206.178.12.121",
+    "foo": "bar",
+    "profile": {
+        "about": "Civil a open less artist look most. They attack fly culture.\nPositive when each become.\nNation born all page around follow authority. Manager million green prevent rich lay.",
+        "bio": "Pass operation offer audience about case either.\nLaugh between second food fire throughout front. Executive believe little on player recently job industry."
+    },
+    "currency": [
+        "AZN",
+        "Azerbaijani manat"
+    ]
+}
