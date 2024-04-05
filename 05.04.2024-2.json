@@ -1,0 +1,25 @@
+{
+    "name": "Amanda Edwards",
+    "age": 40,
+    "address": {
+        "street": "Hall Spur",
+        "city": "Javierbury",
+        "state": "Utah",
+        "zip": "23118"
+    },
+    "contact": {
+        "phone": "001-442-556-1693",
+        "servicePhone": "800436837"
+    },
+    "birthday": "1985-09-01",
+    "ip": "144.245.247.95",
+    "foo": "bar",
+    "profile": {
+        "about": "Lot low however story five. Garden different picture trouble town you.\nMoney term than visit wrong six might. By plan top character hit doctor your close.\nTable phone cultural still glass position.",
+        "bio": "Thing view call follow official fact wish.\nOften tonight all. Seem center machine plan dinner that event information."
+    },
+    "currency": [
+        "MKD",
+        "Macedonian denar"
+    ]
+}
