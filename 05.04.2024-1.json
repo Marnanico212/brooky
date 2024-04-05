@@ -1,0 +1,25 @@
+{
+    "name": "Ms. Anita Snyder DDS",
+    "age": 21,
+    "address": {
+        "street": "Hull Mill",
+        "city": "East Katherine",
+        "state": "Alabama",
+        "zip": "12380"
+    },
+    "contact": {
+        "phone": "696.717.4794",
+        "servicePhone": "800555086"
+    },
+    "birthday": "2004-21-03",
+    "ip": "144.24.59.214",
+    "foo": "bar",
+    "profile": {
+        "about": "Common west none artist fill serious need. Reach hotel admit television watch girl film. Else church owner.\nBook along technology agree star note sing.",
+        "bio": "Two surface wife return. Their a since property outside national.\nMention trade carry under. Between center activity can. Charge than listen small would factor guy."
+    },
+    "currency": [
+        "GYD",
+        "Guyanese dollar"
+    ]
+}
