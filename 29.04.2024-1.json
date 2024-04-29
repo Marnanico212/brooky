@@ -1,0 +1,25 @@
+{
+    "name": "Javier Phillips",
+    "age": 18,
+    "address": {
+        "street": "Ashley Valley",
+        "city": "Brucetown",
+        "state": "Colorado",
+        "zip": "46822"
+    },
+    "contact": {
+        "phone": "(839)878-2641",
+        "servicePhone": "800007284"
+    },
+    "birthday": "2007-30-04",
+    "ip": "60.208.78.27",
+    "foo": "bar",
+    "profile": {
+        "about": "Run cold much relate president. Tree history low computer born in ok.\nTell future statement ago run save consider plant. Say sing party run hotel. Statement create serve.",
+        "bio": "Study send enough check interesting single. Off friend site trip.\nIt relate tonight."
+    },
+    "currency": [
+        "KGS",
+        "Kyrgyzstani som"
+    ]
+}
