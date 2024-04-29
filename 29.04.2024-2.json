@@ -1,0 +1,25 @@
+{
+    "name": "James Howell",
+    "age": 85,
+    "address": {
+        "street": "Moore Shore",
+        "city": "New Tabithaburgh",
+        "state": "New Hampshire",
+        "zip": "88719"
+    },
+    "contact": {
+        "phone": "001-606-553-2779",
+        "servicePhone": "800262834"
+    },
+    "birthday": "1940-02-12",
+    "ip": "21.146.34.29",
+    "foo": "bar",
+    "profile": {
+        "about": "Law say center speech. Have thousand anything across board. Rich put direction.",
+        "bio": "Look develop notice drive since matter. Character process buy.\nRadio call senior quite somebody. Office sign save level matter often food center."
+    },
+    "currency": [
+        "MNT",
+        "Mongolian tugrik"
+    ]
+}
