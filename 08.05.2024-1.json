@@ -1,0 +1,25 @@
+{
+    "name": "Jamie Olson",
+    "age": 29,
+    "address": {
+        "street": "Jones Camp",
+        "city": "Lake Jeremy",
+        "state": "Iowa",
+        "zip": "39754"
+    },
+    "contact": {
+        "phone": "666-835-3942x32597",
+        "servicePhone": "800859321"
+    },
+    "birthday": "1996-15-07",
+    "ip": "61.201.221.254",
+    "foo": "bar",
+    "profile": {
+        "about": "As laugh top phone. Anyone teacher system difficult.\nFilm prepare might any.\nPurpose today air role. Fish three leader near system simple. Almost space thank at animal force travel.",
+        "bio": "Add behind want to over. Last business home just. Television get color two drop I sort.\nLoss reduce several thought character two. He amount ball friend production main shake."
+    },
+    "currency": [
+        "MGA",
+        "Malagasy ariar"
+    ]
+}
