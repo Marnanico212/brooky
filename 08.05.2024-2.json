@@ -1,0 +1,25 @@
+{
+    "name": "Linda Williamson",
+    "age": 24,
+    "address": {
+        "street": "Rivers Circle",
+        "city": "West Kimberlyburgh",
+        "state": "New York",
+        "zip": "28207"
+    },
+    "contact": {
+        "phone": "(413)716-6832",
+        "servicePhone": "800943716"
+    },
+    "birthday": "2001-19-02",
+    "ip": "87.48.162.190",
+    "foo": "bar",
+    "profile": {
+        "about": "Record recent deal production detail mouth population much. Include American anyone.\nToward about perhaps push world very talk. Reveal PM woman score.",
+        "bio": "Usually well main mother yeah several. Father major hot allow item reflect. Citizen debate evening traditional wish audience individual ready."
+    },
+    "currency": [
+        "XAF",
+        "Central African CFA franc"
+    ]
+}
