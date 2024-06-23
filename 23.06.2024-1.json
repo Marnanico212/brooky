@@ -1,0 +1,25 @@
+{
+    "name": "Sandra Jackson",
+    "age": 30,
+    "address": {
+        "street": "Richard Stravenue",
+        "city": "Port Katie",
+        "state": "Arizona",
+        "zip": "64365"
+    },
+    "contact": {
+        "phone": "(447)876-2929",
+        "servicePhone": "800988926"
+    },
+    "birthday": "1995-10-10",
+    "ip": "36.89.178.74",
+    "foo": "bar",
+    "profile": {
+        "about": "See note worker single name high.\nAlong other run see skin inside. Century off drive brother citizen.\nCan it message. Least dream technology explain.",
+        "bio": "Bed by history next answer find mission. Professional know leader offer accept.\nThem happen development media might. At record final city boy. Building number key capital. Beyond debate word through."
+    },
+    "currency": [
+        "AWG",
+        "Aruban florin"
+    ]
+}
