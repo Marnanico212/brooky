@@ -1,0 +1,25 @@
+{
+    "name": "John Washington",
+    "age": 21,
+    "address": {
+        "street": "Paul Bridge",
+        "city": "New Robert",
+        "state": "New Mexico",
+        "zip": "73750"
+    },
+    "contact": {
+        "phone": "+1-681-574-4015x394",
+        "servicePhone": "800636744"
+    },
+    "birthday": "2004-28-06",
+    "ip": "37.121.137.155",
+    "foo": "bar",
+    "profile": {
+        "about": "Forget president argue play fire high. Hard best environmental everyone. Feeling attorney guess allow discover.",
+        "bio": "Enter whether energy phone manager. Area article nor bill.\nThe personal land scene image.\nWin popular scene herself fact deal pull."
+    },
+    "currency": [
+        "SVC",
+        "Salvadoran colón"
+    ]
+}
