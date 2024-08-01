@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Ford",
+    "age": 21,
+    "address": {
+        "street": "Kelly Drives",
+        "city": "New Yeseniaberg",
+        "state": "Louisiana",
+        "zip": "79421"
+    },
+    "contact": {
+        "phone": "+1-718-309-4392",
+        "servicePhone": "800118067"
+    },
+    "birthday": "2004-27-02",
+    "ip": "88.237.166.172",
+    "foo": "bar",
+    "profile": {
+        "about": "Radio part mind do a. Most entire account goal ahead. Buy lead explain usually teach option season gun.",
+        "bio": "So support which.\nGet result she though success. Agree son reason federal than eye memory society.\nFirm will each wrong natural him maintain. Small industry deal board student group."
+    },
+    "currency": [
+        "ETB",
+        "Ethiopian birr"
+    ]
+}
