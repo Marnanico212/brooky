@@ -1,0 +1,25 @@
+{
+    "name": "Thomas Charles",
+    "age": 102,
+    "address": {
+        "street": "Teresa Plains",
+        "city": "North Ernestside",
+        "state": "Missouri",
+        "zip": "74590"
+    },
+    "contact": {
+        "phone": "266.287.5926",
+        "servicePhone": "800659212"
+    },
+    "birthday": "1923-07-12",
+    "ip": "18.181.96.19",
+    "foo": "bar",
+    "profile": {
+        "about": "Help all want sound. Itself age oil beyond add part. Push east where item others fast. Quickly trial reduce director.\nNewspaper imagine think themselves affect.",
+        "bio": "Fast wind size citizen foreign western throughout. Close according thank nor.\nNone since public provide year. Skill time try air control. A arrive should local reduce game authority."
+    },
+    "currency": [
+        "PEN",
+        "Peruvian sol"
+    ]
+}
