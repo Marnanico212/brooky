@@ -1,0 +1,25 @@
+{
+    "name": "Mary Norris",
+    "age": 116,
+    "address": {
+        "street": "Anthony Manor",
+        "city": "Bergfort",
+        "state": "Massachusetts",
+        "zip": "22254"
+    },
+    "contact": {
+        "phone": "+1-891-626-2260x2783",
+        "servicePhone": "800401491"
+    },
+    "birthday": "1909-20-10",
+    "ip": "66.149.51.182",
+    "foo": "bar",
+    "profile": {
+        "about": "Sell scene tree reality card. Approach require drive next very continue west.\nAs beyond feel could entire kid fight. Will study number lay.",
+        "bio": "Sing unit friend inside wonder I quickly. Clear who common follow build meeting.\nKid race nothing land live. Top soon firm though person minute. Tax side to it entire."
+    },
+    "currency": [
+        "SCR",
+        "Seychellois rupee"
+    ]
+}
