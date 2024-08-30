@@ -1,0 +1,25 @@
+{
+    "name": "Kevin Phillips",
+    "age": 27,
+    "address": {
+        "street": "Laura Wall",
+        "city": "Lake Joel",
+        "state": "North Carolina",
+        "zip": "26682"
+    },
+    "contact": {
+        "phone": "001-612-360-7243x47876",
+        "servicePhone": "800976061"
+    },
+    "birthday": "1998-30-07",
+    "ip": "185.136.63.60",
+    "foo": "bar",
+    "profile": {
+        "about": "Become nothing art music. Theory through nothing. Almost reflect senior key pressure fire law.",
+        "bio": "Treat cell quite wonder lot evidence.\nThus such police safe. Politics suggest less my hour.\nCold early meeting cell half radio. Officer quite here. Size wish hard."
+    },
+    "currency": [
+        "LAK",
+        "Lao kip"
+    ]
+}
