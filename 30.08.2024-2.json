@@ -1,0 +1,25 @@
+{
+    "name": "Joshua Allen",
+    "age": 97,
+    "address": {
+        "street": "Jennifer Junction",
+        "city": "North Jessica",
+        "state": "Iowa",
+        "zip": "18428"
+    },
+    "contact": {
+        "phone": "403-820-7306",
+        "servicePhone": "800767963"
+    },
+    "birthday": "1928-09-11",
+    "ip": "10.249.84.45",
+    "foo": "bar",
+    "profile": {
+        "about": "While word fall east million respond stuff. Research general shake. Teacher claim those worker dog pay only side. Think consider night difference.\nLeast laugh business station fear land general.",
+        "bio": "Language money per now forget. Us protect fear one. No program create method seven.\nOften candidate wait surface. Reduce after modern interest against."
+    },
+    "currency": [
+        "CAD",
+        "Canadian dollar"
+    ]
+}
