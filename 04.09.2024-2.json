@@ -1,0 +1,25 @@
+{
+    "name": "Jonathan Hoover",
+    "age": 11,
+    "address": {
+        "street": "Sabrina Estates",
+        "city": "Lake William",
+        "state": "North Carolina",
+        "zip": "78197"
+    },
+    "contact": {
+        "phone": "292.857.6310",
+        "servicePhone": "800803283"
+    },
+    "birthday": "2014-13-04",
+    "ip": "61.254.28.173",
+    "foo": "bar",
+    "profile": {
+        "about": "Late a few show table these. Network huge right page. Go across her.\nNot against performance include give. First sort reveal until financial suffer success couple.",
+        "bio": "Would reason make cold. Teacher art support color half hit. Everybody shoulder create care personal reach deep."
+    },
+    "currency": [
+        "BIF",
+        "Burundian franc"
+    ]
+}
