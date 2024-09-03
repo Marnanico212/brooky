@@ -1,0 +1,25 @@
+{
+    "name": "Stephanie Patterson",
+    "age": 88,
+    "address": {
+        "street": "Wells Unions",
+        "city": "East Morganfurt",
+        "state": "Alaska",
+        "zip": "46209"
+    },
+    "contact": {
+        "phone": "933-292-4485",
+        "servicePhone": "800815671"
+    },
+    "birthday": "1937-20-04",
+    "ip": "77.38.143.45",
+    "foo": "bar",
+    "profile": {
+        "about": "Camera phone matter civil himself reality challenge. Stage mind personal guy.\nGround state table trade by. Look guy book resource young establish agree.",
+        "bio": "Left spend perhaps listen live professional worry.\nStudent force from letter military debate. Reduce add candidate measure culture. State treat old drive listen eye soldier for."
+    },
+    "currency": [
+        "ARS",
+        "Argentine peso"
+    ]
+}
