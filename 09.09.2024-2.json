@@ -1,0 +1,25 @@
+{
+    "name": "Lisa Cardenas",
+    "age": 48,
+    "address": {
+        "street": "Victor Village",
+        "city": "Port Stephenhaven",
+        "state": "Illinois",
+        "zip": "43477"
+    },
+    "contact": {
+        "phone": "740-246-3355",
+        "servicePhone": "800590943"
+    },
+    "birthday": "1977-16-03",
+    "ip": "130.169.62.188",
+    "foo": "bar",
+    "profile": {
+        "about": "Director safe close picture. Human carry address difference social.",
+        "bio": "Floor strong teacher add.\nNear movie generation always. Opportunity television company least recently.\nWhole free might still. Officer standard four significant top tough protect."
+    },
+    "currency": [
+        "PLN",
+        "Polish zloty"
+    ]
+}
