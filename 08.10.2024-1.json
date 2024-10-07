@@ -1,0 +1,25 @@
+{
+    "name": "Rick Wilson",
+    "age": 102,
+    "address": {
+        "street": "Dennis Dale",
+        "city": "New Anthonyland",
+        "state": "Missouri",
+        "zip": "18237"
+    },
+    "contact": {
+        "phone": "895.309.3048",
+        "servicePhone": "800535800"
+    },
+    "birthday": "1923-11-10",
+    "ip": "33.81.74.145",
+    "foo": "bar",
+    "profile": {
+        "about": "Then mention high apply clear cell. Beautiful great phone sell wide herself southern. Again fight age body truth store.",
+        "bio": "Among election spend security hard resource energy. Statement population hotel add ask consumer.\nNumber military understand begin cultural radio. Seek measure director real return."
+    },
+    "currency": [
+        "CHF",
+        "Swiss franc"
+    ]
+}
