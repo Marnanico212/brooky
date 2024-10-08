@@ -1,0 +1,25 @@
+{
+    "name": "Susan Elliott",
+    "age": 71,
+    "address": {
+        "street": "Cheryl Shoals",
+        "city": "New Michael",
+        "state": "Oregon",
+        "zip": "20628"
+    },
+    "contact": {
+        "phone": "276.755.8501",
+        "servicePhone": "800558611"
+    },
+    "birthday": "1954-23-05",
+    "ip": "18.244.248.204",
+    "foo": "bar",
+    "profile": {
+        "about": "Local without speech ago. Particularly assume record woman information reach. When foot foreign member.\nAccording sport manager. Tv car statement rule skill quickly parent.",
+        "bio": "Worry give theory opportunity purpose during. Power south behavior manage.\nDown maybe always. Better send exactly contain."
+    },
+    "currency": [
+        "PAB",
+        "Panamanian balboa"
+    ]
+}
